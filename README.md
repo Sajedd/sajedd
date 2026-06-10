@@ -1,11 +1,6 @@
-<!-- ════════════════════════════════════════════════════════════ -->
-<!-- 🎨 BANNIÈRE SVG PERSONNALISÉE — décommente quand elle est prête -->
-<!--
 <p align="center">
   <img src="./assets/banner.svg" alt="Sajed Ben Youssef — Data Engineer" width="100%" />
 </p>
--->
-<!-- ════════════════════════════════════════════════════════════ -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=720&lines=Sajed+Ben+Youssef+%E2%80%94+Data+Engineer;Recherche+alternance+%E2%80%94+Sept.%2FOct.+2026;Pipelines+%C2%B7+Cloud+%C2%B7+Architectures+de+donn%C3%A9es;Builder+de+produits+en+production+%F0%9F%9A%80" alt="Typing SVG" />
